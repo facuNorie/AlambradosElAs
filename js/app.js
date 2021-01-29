@@ -38,15 +38,15 @@ crearElemento = (link,parrafo,imagen)=>{
     containerCards.appendChild(a);
 }
 
-crearElemento("alambrados","Alambrados","http://alambradoselas.com.ar/imagenes/foto_alambrados2.jpg");
+crearElemento("alambrados","Alambrados","img/foto_alambrados2.jpg");
 
-crearElemento("cerramientos","Cerramientos","http://alambradoselas.com.ar/imagenes/foto_cerramientos4.jpg");
+crearElemento("cerramientos","Cerramientos","img/foto_cerramientos4.jpg");
 
-crearElemento("tranqueras","Tranqueras","http://alambradoselas.com.ar/imagenes/foto_tranqueras1.jpg");
+crearElemento("tranqueras","Tranqueras","img/foto_tranqueras1.jpg");
 
-crearElemento("placas","Placas","http://alambradoselas.com.ar/imagenes/foto_placas2.jpg");
+crearElemento("placas","Placas","img/foto_placas2.jpg");
 
-crearElemento("portones","Portones","http://alambradoselas.com.ar/imagenes/foto_portones2.jpg");
+crearElemento("portones","Portones","img/foto_portones2.jpg");
 
 //  CREANDO SECCIONES
 
@@ -90,15 +90,15 @@ crearSection = (name,img1,titulo,descripcion) =>{
 
 }
 
-crearSection("alambrados","http://alambradoselas.com.ar/imagenes/foto_alambrados3.jpg","Alambrados y Postes","Realizados en materiales de primera calidad. Colocación con mano de obra especializada. Variedad de propuestas, formas y diseños. Soluciones rápidas, eficientes y durables.");
+crearSection("alambrados","img/foto_alambrados3.jpg","Alambrados y Postes","Realizados en materiales de primera calidad. Colocación con mano de obra especializada. Variedad de propuestas, formas y diseños. Soluciones rápidas, eficientes y durables.");
 
-crearSection("cerramientos","http://alambradoselas.com.ar/imagenes/foto_cerramientos4.jpg","Cerramientos","Realizados con materiales resistentes a la interperie. Ofrecen confort y tranquilidad. Con puerta de acceso con traba de seguridad para mayor comodidad. Diseñados a medida");
+crearSection("cerramientos","img/foto_cerramientos4.jpg","Cerramientos","Realizados con materiales resistentes a la interperie. Ofrecen confort y tranquilidad. Con puerta de acceso con traba de seguridad para mayor comodidad. Diseñados a medida");
 
-crearSection("tranqueras","http://alambradoselas.com.ar/imagenes/foto_tranqueras3.jpg","Tranqueras","Realizadas en quebracho colorado con diseño estilo campo. En varias medidas de acuerdo a cada necesidad. Maderas resistentes a las inclemencias del tiempo, y de gran durabilidad.");
+crearSection("tranqueras","img/foto_tranqueras3.jpg","Tranqueras","Realizadas en quebracho colorado con diseño estilo campo. En varias medidas de acuerdo a cada necesidad. Maderas resistentes a las inclemencias del tiempo, y de gran durabilidad.");
 
-crearSection("placas","http://alambradoselas.com.ar/imagenes/foto_placas2.jpg","Placas Premoldeadas","Venta y colocación de cercos premoldeados fabricados con placas de hormigón vibrado de gran durabilidad y hermetismo, Ideales para crear paredones de delimitación en fábricas, empresas, lotes y barrios cerrados. De excelente calidad.");
+crearSection("placas","img/foto_placas2.jpg","Placas Premoldeadas","Venta y colocación de cercos premoldeados fabricados con placas de hormigón vibrado de gran durabilidad y hermetismo, Ideales para crear paredones de delimitación en fábricas, empresas, lotes y barrios cerrados. De excelente calidad.");
 
-crearSection("portones","http://alambradoselas.com.ar/imagenes/foto_portones2.jpg","Portones y Puertas","Realizados con caño estructural y alambre de primera calidad, o integramente en madera con herrajes. En todos los tamaños, estandar y a medida. Con cierre para candado y traba de seguridad.");
+crearSection("portones","img/foto_portones2.jpg","Portones y Puertas","Realizados con caño estructural y alambre de primera calidad, o integramente en madera con herrajes. En todos los tamaños, estandar y a medida. Con cierre para candado y traba de seguridad.");
 
 
 // CONTACTO
